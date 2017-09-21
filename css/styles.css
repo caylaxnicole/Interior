@@ -1,0 +1,16 @@
+.column {
+  width: 30%;
+  float: left;
+  padding: 4px;
+  margin: 2px;
+  background-color: teal;
+  border: 3px dashed black;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
